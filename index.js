@@ -17,6 +17,9 @@ app.get('/chefs', (req, res) => {
     res.send(chefs)
 })
 
+app.get('/recipes', (req, res) => {
+    res.send(recipes)
+})
 app.listen(port , () => {
     console.log(`The FoodChef India running on Port: ${port}` );
 })
