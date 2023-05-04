@@ -27,6 +27,9 @@ app.get('/chefDetails/:id', (req, res) => {
    res.send(eachChefRecipes || {})
 })
 
+app.get('/questionAns', ( req, res) => {
+    res.send(questionAns)
+})
 
 app.listen(port , () => {
     console.log(`The FoodChef India running on Port: ${port}` );
