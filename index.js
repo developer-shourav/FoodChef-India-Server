@@ -20,6 +20,14 @@ app.get('/chefs', (req, res) => {
 app.get('/recipes', (req, res) => {
     res.send(recipes)
 })
+
+app.get('/chefDetails/:id', (req, res) => {
+    const iD = req.params.id;
+   const eachChefRecipes = recipes.find( recipe => recipe.id == iD);
+   res.send(eachChefRecipes || {})
+})
+
+
 app.listen(port , () => {
     console.log(`The FoodChef India running on Port: ${port}` );
 })
