@@ -13,7 +13,11 @@ app.get('/', (req, res) => {
     res.send('Welcome to FoodChef India')
 })
 
+app.get('/chefs', (req, res) => {
+    res.send(chefs)
+})
 
 app.listen(port , () => {
     console.log(`The FoodChef India running on Port: ${port}` );
 })
+
