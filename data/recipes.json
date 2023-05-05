@@ -5,18 +5,18 @@
     "famous_recipes": [
       {
         "id": 1,
-      "recipe_name": "Chicken Biriyani",
+      "recipe_name": "Shahi Merton",
       "ingredients": [
-        "Chicken",
-        "Rice",
-        "Oil",
-        "Biriyani Masala",
+        "Merton",
+        "Ghee ",
+        "Sugar",
+        "Rose water",
         "Gram Masala",
-        "Dahi",
-        "Pudina"
+        "Saffron",
+        "Chopped nuts for garnish"
       ],
       "recipe_img": "https://i.ibb.co/RN7HRQG/rec1.jpg",
-      "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+      "method": "To make Shahi Merton, first boil milk and add sugar to create a thick and creamy base. Then, soak almonds in hot water and peel off the skin before grinding them into a fine paste. Add the almond paste to the milk mixture and cook until the mixture thickens. In a separate pan, heat ghee and fry small pieces of mawa until they turn golden brown.",
       "rating": 5
       },
       {
@@ -161,18 +161,18 @@
       },
       {
         "id": 2,
-        "recipe_name": "Chicken Biriyani",
+        "recipe_name": "Shahi Merton",
         "ingredients": [
-          "Chicken",
-          "Rice",
-          "Oil",
-          "Biriyani Masala",
+          "Merton",
+          "Ghee ",
+          "Sugar",
+          "Rose water",
           "Gram Masala",
-          "Dahi",
-          "Pudina"
+          "Saffron",
+          "Chopped nuts for garnish"
         ],
         "recipe_img": "https://i.ibb.co/RN7HRQG/rec1.jpg",
-        "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+        "method": "TTo make Shahi Merton, first boil milk and add sugar to create a thick and creamy base. Then, soak almonds in hot water and peel off the skin before grinding them into a fine paste. Add the almond paste to the milk mixture and cook until the mixture thickens. In a separate pan, heat ghee and fry small pieces of mawa until they turn golden brown.",
         "rating": 4.5
       },
       {
@@ -269,18 +269,18 @@
     "famous_recipes": [
       {
         "id": 1,
-      "recipe_name": "Chicken Biriyani",
-      "ingredients": [
-        "Chicken",
-        "Rice",
-        "Oil",
-        "Biriyani Masala",
-        "Gram Masala",
-        "Dahi",
-        "Pudina"
-      ],
+        "recipe_name": "Shahi Merton",
+        "ingredients": [
+          "Merton",
+          "Ghee ",
+          "Sugar",
+          "Rose water",
+          "Gram Masala",
+          "Saffron",
+          "Chopped nuts for garnish"
+        ],
       "recipe_img": "https://i.ibb.co/RN7HRQG/rec1.jpg",
-      "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+      "method": "TTo make Shahi Merton, first boil milk and add sugar to create a thick and creamy base. Then, soak almonds in hot water and peel off the skin before grinding them into a fine paste. Add the almond paste to the milk mixture and cook until the mixture thickens. In a separate pan, heat ghee and fry small pieces of mawa until they turn golden brown",
       "rating": 5
       },
       {
@@ -387,18 +387,18 @@
       },
       {
         "id": 4,
-        "recipe_name": "Chicken Biriyani",
+        "recipe_name": "Shahi Merton",
         "ingredients": [
-          "Chicken",
-          "Rice",
-          "Oil",
-          "Biriyani Masala",
+          "Merton",
+          "Ghee ",
+          "Sugar",
+          "Rose water",
           "Gram Masala",
-          "Dahi",
-          "Pudina"
+          "Saffron",
+          "Chopped nuts for garnish"
         ],
         "recipe_img": "https://i.ibb.co/RN7HRQG/rec1.jpg",
-        "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+        "method": "TTo make Shahi Merton, first boil milk and add sugar to create a thick and creamy base. Then, soak almonds in hot water and peel off the skin before grinding them into a fine paste. Add the almond paste to the milk mixture and cook until the mixture thickens. In a separate pan, heat ghee and fry small pieces of mawa until they turn golden brown.",
         "rating": 4
       },
       {
@@ -425,18 +425,18 @@
     "famous_recipes": [
       {
         "id": 1,
-      "recipe_name": "Chicken Biriyani",
-      "ingredients": [
-        "Chicken",
-        "Rice",
-        "Oil",
-        "Biriyani Masala",
-        "Gram Masala",
-        "Dahi",
-        "Pudina"
-      ],
+        "recipe_name": "Shahi Merton",
+        "ingredients": [
+          "Merton",
+          "Ghee ",
+          "Sugar",
+          "Rose water",
+          "Gram Masala",
+          "Saffron",
+          "Chopped nuts for garnish"
+        ],
       "recipe_img": "https://i.ibb.co/RN7HRQG/rec1.jpg",
-      "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+      "method": "TTo make Shahi Merton, first boil milk and add sugar to create a thick and creamy base. Then, soak almonds in hot water and peel off the skin before grinding them into a fine paste. Add the almond paste to the milk mixture and cook until the mixture thickens. In a separate pan, heat ghee and fry small pieces of mawa until they turn golden brown.",
       "rating": 5
       },
       {
