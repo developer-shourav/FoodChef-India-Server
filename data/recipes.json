@@ -26,6 +26,7 @@
           "Chicken",
           "Rice",
           "Oil",
+          "Ghree",
           "Biriyani Masala",
           "Gram Masala",
           "Dahi",
@@ -37,18 +38,19 @@
       },
       {
         "id": 3,
-        "recipe_name": "Chicken Biriyani",
+        "recipe_name": "Chicken Tandoori Curry",
         "ingredients": [
-          "Chicken",
-          "Rice",
+          "Chicken (bone-in or boneless)",
+          "Plain yogurt",
+          "Tandoori masala",
+          "Ginger-garlic paste",
+          "Cumin powder",
+          "Garam masala",
           "Oil",
-          "Biriyani Masala",
-          "Gram Masala",
-          "Dahi",
-          "Pudina"
+          "Salt"
         ],
         "recipe_img": "https://i.ibb.co/tMJQ4Hy/rec3.jpg",
-        "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+        "method": "To make Chicken Tandoori, start by marinating chicken in a mixture of yogurt, tandoori masala, ginger-garlic paste, cumin, coriander, garam masala, and salt. Refrigerate the chicken for at least 2 hours or overnight to allow the flavors to develop. Preheat your oven to 400°F and arrange the chicken on a baking sheet. Roast the chicken in the oven for 20-25 minutes or until fully cooked and slightly charred. Once the chicken is cooked, you can serve it hot with naan bread or as a side dish. Chicken Tandoori is a popular Indian dish that is flavorful, tender, and easy to make at home.",
         "rating": 4.5
       },
       {
@@ -91,18 +93,19 @@
     "famous_recipes": [
       {
         "id": 1,
-      "recipe_name": "Chicken Biriyani",
-      "ingredients": [
-        "Chicken",
-        "Rice",
-        "Oil",
-        "Biriyani Masala",
-        "Gram Masala",
-        "Dahi",
-        "Pudina"
-      ],
+        "recipe_name": "Chicken Tandoori Curry",
+        "ingredients": [
+          "Chicken (bone-in or boneless)",
+          "Plain yogurt",
+          "Tandoori masala",
+          "Ginger-garlic paste",
+          "Cumin powder",
+          "Garam masala",
+          "Oil",
+          "Salt"
+        ],
       "recipe_img": "https://i.ibb.co/tMJQ4Hy/rec3.jpg",
-      "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+      "method": "To make Chicken Tandoori, start by marinating chicken in a mixture of yogurt, tandoori masala, ginger-garlic paste, cumin, coriander, garam masala, and salt. Refrigerate the chicken for at least 2 hours or overnight to allow the flavors to develop. Preheat your oven to 400°F and arrange the chicken on a baking sheet. Roast the chicken in the oven for 20-25 minutes or until fully cooked and slightly charred. Once the chicken is cooked, you can serve it hot with naan bread or as a side dish. Chicken Tandoori is a popular Indian dish that is flavorful, tender, and easy to make at home.",
       "rating": 5
       },
       {
@@ -145,18 +148,19 @@
     "famous_recipes": [
       {
         "id": 1,
-      "recipe_name": "Chicken Biriyani",
-      "ingredients": [
-        "Chicken",
-        "Rice",
-        "Oil",
-        "Biriyani Masala",
-        "Gram Masala",
-        "Dahi",
-        "Pudina"
-      ],
+        "recipe_name": "Chicken Tandoori Curry",
+        "ingredients": [
+          "Chicken (bone-in or boneless)",
+          "Plain yogurt",
+          "Tandoori masala",
+          "Ginger-garlic paste",
+          "Cumin powder",
+          "Garam masala",
+          "Oil",
+          "Salt"
+        ],
       "recipe_img": "https://i.ibb.co/tMJQ4Hy/rec3.jpg",
-      "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+      "method": "To make Chicken Tandoori, start by marinating chicken in a mixture of yogurt, tandoori masala, ginger-garlic paste, cumin, coriander, garam masala, and salt. Refrigerate the chicken for at least 2 hours or overnight to allow the flavors to develop. Preheat your oven to 400°F and arrange the chicken on a baking sheet. Roast the chicken in the oven for 20-25 minutes or until fully cooked and slightly charred. Once the chicken is cooked, you can serve it hot with naan bread or as a side dish. Chicken Tandoori is a popular Indian dish that is flavorful, tender, and easy to make at home.",
       "rating": 5
       },
       {
@@ -182,6 +186,7 @@
           "Chicken",
           "Rice",
           "Oil",
+          "Ghree",
           "Biriyani Masala",
           "Gram Masala",
           "Dahi",
@@ -231,18 +236,19 @@
       },
       {
         "id": 3,
-        "recipe_name": "Chicken Biriyani",
+        "recipe_name": "Chicken Tandoori Curry",
         "ingredients": [
-          "Chicken",
-          "Rice",
+          "Chicken (bone-in or boneless)",
+          "Plain yogurt",
+          "Tandoori masala",
+          "Ginger-garlic paste",
+          "Cumin powder",
+          "Garam masala",
           "Oil",
-          "Biriyani Masala",
-          "Gram Masala",
-          "Dahi",
-          "Pudina"
+          "Salt"
         ],
         "recipe_img": "https://i.ibb.co/tMJQ4Hy/rec3.jpg",
-        "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+        "method": "To make Chicken Tandoori, start by marinating chicken in a mixture of yogurt, tandoori masala, ginger-garlic paste, cumin, coriander, garam masala, and salt. Refrigerate the chicken for at least 2 hours or overnight to allow the flavors to develop. Preheat your oven to 400°F and arrange the chicken on a baking sheet. Roast the chicken in the oven for 20-25 minutes or until fully cooked and slightly charred. Once the chicken is cooked, you can serve it hot with naan bread or as a side dish. Chicken Tandoori is a popular Indian dish that is flavorful, tender, and easy to make at home.",
         "rating": 4.5
       },
       {
@@ -252,6 +258,7 @@
           "Chicken",
           "Rice",
           "Oil",
+          "Ghree",
           "Biriyani Masala",
           "Gram Masala",
           "Dahi",
@@ -290,6 +297,7 @@
           "Chicken",
           "Rice",
           "Oil",
+          "Ghree",
           "Biriyani Masala",
           "Gram Masala",
           "Dahi",
@@ -301,18 +309,19 @@
       },
       {
         "id": 3,
-        "recipe_name": "Chicken Biriyani",
+        "recipe_name": "Chicken Tandoori Curry",
         "ingredients": [
-          "Chicken",
-          "Rice",
+          "Chicken (bone-in or boneless)",
+          "Plain yogurt",
+          "Tandoori masala",
+          "Ginger-garlic paste",
+          "Cumin powder",
+          "Garam masala",
           "Oil",
-          "Biriyani Masala",
-          "Gram Masala",
-          "Dahi",
-          "Pudina"
+          "Salt"
         ],
         "recipe_img": "https://i.ibb.co/tMJQ4Hy/rec3.jpg",
-        "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+        "method": "To make Chicken Tandoori, start by marinating chicken in a mixture of yogurt, tandoori masala, ginger-garlic paste, cumin, coriander, garam masala, and salt. Refrigerate the chicken for at least 2 hours or overnight to allow the flavors to develop. Preheat your oven to 400°F and arrange the chicken on a baking sheet. Roast the chicken in the oven for 20-25 minutes or until fully cooked and slightly charred. Once the chicken is cooked, you can serve it hot with naan bread or as a side dish. Chicken Tandoori is a popular Indian dish that is flavorful, tender, and easy to make at home.",
         "rating": 4.5
       },
       {
@@ -376,6 +385,7 @@
           "Chicken",
           "Rice",
           "Oil",
+          "Ghree",
           "Biriyani Masala",
           "Gram Masala",
           "Dahi",
@@ -446,6 +456,7 @@
           "Chicken",
           "Rice",
           "Oil",
+          "Ghree",
           "Biriyani Masala",
           "Gram Masala",
           "Dahi",
@@ -457,18 +468,19 @@
       },
       {
         "id": 3,
-        "recipe_name": "Chicken Biriyani",
+        "recipe_name": "Chicken Tandoori Curry",
         "ingredients": [
-          "Chicken",
-          "Rice",
+          "Chicken (bone-in or boneless)",
+          "Plain yogurt",
+          "Tandoori masala",
+          "Ginger-garlic paste",
+          "Cumin powder",
+          "Garam masala",
           "Oil",
-          "Biriyani Masala",
-          "Gram Masala",
-          "Dahi",
-          "Pudina"
+          "Salt"
         ],
         "recipe_img": "https://i.ibb.co/tMJQ4Hy/rec3.jpg",
-        "method": "To prepare biryani, first, soak 2 cups of basmati rice for 30 minutes, then cook the rice with whole spices and salt until it's 70% done. In a separate pan, cook the meat or vegetables with spices and yoghurt until tender. Layer the rice and meat mixture in a large pot, sprinkle with fried onions, mint leaves, and saffron-infused milk. Cover and cook on low heat for 20-25 minutes until the rice is fully cooked and fluffy. Serve hot with raita or salad.",
+        "method": "To make Chicken Tandoori, start by marinating chicken in a mixture of yogurt, tandoori masala, ginger-garlic paste, cumin, coriander, garam masala, and salt. Refrigerate the chicken for at least 2 hours or overnight to allow the flavors to develop. Preheat your oven to 400°F and arrange the chicken on a baking sheet. Roast the chicken in the oven for 20-25 minutes or until fully cooked and slightly charred. Once the chicken is cooked, you can serve it hot with naan bread or as a side dish. Chicken Tandoori is a popular Indian dish that is flavorful, tender, and easy to make at home.",
         "rating": 4.5
       }
     ]
